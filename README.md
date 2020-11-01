@@ -1,2 +1,2 @@
 # chatbox
-multichat application practice through Socket.io
+Just practicing chat application development through Socket.io
